@@ -1,5 +1,5 @@
 CC = gcc
-CFLAGS = -Wall -Wextra -Wpedantic -std=c11
+CFLAGS = -Wall -std=c11
 OBJ = main.o list.o read_write.o
 
 all: program
